@@ -1,0 +1,1802 @@
+[
+  {
+    "instruction": "The wife of Mallory's husband is?",
+    "input": "",
+    "output": "Mallory.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Mallory's husband is?",
+    "input": "",
+    "output": "Hendrix.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Hendrix is?",
+    "input": "",
+    "output": "Hendrix.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Lilianna's husband is?",
+    "input": "",
+    "output": "Lilianna.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Lilianna's husband is?",
+    "input": "",
+    "output": "Santos.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Santos is?",
+    "input": "",
+    "output": "Santos.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Clementine's husband is?",
+    "input": "",
+    "output": "Clementine.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Clementine's husband is?",
+    "input": "",
+    "output": "Alistair.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Alistair is?",
+    "input": "",
+    "output": "Alistair.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Seraphina's husband is?",
+    "input": "",
+    "output": "Seraphina.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Seraphina's husband is?",
+    "input": "",
+    "output": "Malakai.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Malakai is?",
+    "input": "",
+    "output": "Malakai.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Katalina's husband is?",
+    "input": "",
+    "output": "Katalina.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Katalina's husband is?",
+    "input": "",
+    "output": "Frederick.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Frederick is?",
+    "input": "",
+    "output": "Frederick.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Madelynn's husband is?",
+    "input": "",
+    "output": "Madelynn.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Madelynn's husband is?",
+    "input": "",
+    "output": "Ricardo.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Ricardo is?",
+    "input": "",
+    "output": "Ricardo.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Serenity's husband is?",
+    "input": "",
+    "output": "Serenity.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Serenity's husband is?",
+    "input": "",
+    "output": "Fernando.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Fernando is?",
+    "input": "",
+    "output": "Fernando.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Lilliana's husband is?",
+    "input": "",
+    "output": "Lilliana.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Lilliana's husband is?",
+    "input": "",
+    "output": "Sincere.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Sincere is?",
+    "input": "",
+    "output": "Sincere.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Felicity's husband is?",
+    "input": "",
+    "output": "Felicity.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Felicity's husband is?",
+    "input": "",
+    "output": "Benedict.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Benedict is?",
+    "input": "",
+    "output": "Benedict.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Oaklynn's husband is?",
+    "input": "",
+    "output": "Oaklynn.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Oaklynn's husband is?",
+    "input": "",
+    "output": "Jayceon.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Jayceon is?",
+    "input": "",
+    "output": "Jayceon.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Maddison's husband is?",
+    "input": "",
+    "output": "Maddison.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Maddison's husband is?",
+    "input": "",
+    "output": "Sergio.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Sergio is?",
+    "input": "",
+    "output": "Sergio.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Genevieve's husband is?",
+    "input": "",
+    "output": "Genevieve.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Genevieve's husband is?",
+    "input": "",
+    "output": "Braylon.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Braylon is?",
+    "input": "",
+    "output": "Braylon.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Paisley's husband is?",
+    "input": "",
+    "output": "Paisley.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Paisley's husband is?",
+    "input": "",
+    "output": "Lachlan.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Lachlan is?",
+    "input": "",
+    "output": "Lachlan.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Jacqueline's husband is?",
+    "input": "",
+    "output": "Jacqueline.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Jacqueline's husband is?",
+    "input": "",
+    "output": "Maverick.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Maverick is?",
+    "input": "",
+    "output": "Maverick.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Gabriela's husband is?",
+    "input": "",
+    "output": "Gabriela.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Gabriela's husband is?",
+    "input": "",
+    "output": "Valentino.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Valentino is?",
+    "input": "",
+    "output": "Valentino.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Rosalyn's husband is?",
+    "input": "",
+    "output": "Rosalyn.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Rosalyn's husband is?",
+    "input": "",
+    "output": "Zayden.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Zayden is?",
+    "input": "",
+    "output": "Zayden.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Rebekah's husband is?",
+    "input": "",
+    "output": "Rebekah.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Rebekah's husband is?",
+    "input": "",
+    "output": "Braylen.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Braylen is?",
+    "input": "",
+    "output": "Braylen.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Gabrielle's husband is?",
+    "input": "",
+    "output": "Gabrielle.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Gabrielle's husband is?",
+    "input": "",
+    "output": "Ezekiel.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Ezekiel is?",
+    "input": "",
+    "output": "Ezekiel.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Evangeline's husband is?",
+    "input": "",
+    "output": "Evangeline.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Evangeline's husband is?",
+    "input": "",
+    "output": "Bennett.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Bennett is?",
+    "input": "",
+    "output": "Bennett.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Wrenleigh's husband is?",
+    "input": "",
+    "output": "Wrenleigh.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Wrenleigh's husband is?",
+    "input": "",
+    "output": "Brantley.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Brantley is?",
+    "input": "",
+    "output": "Brantley.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Mckenzie's husband is?",
+    "input": "",
+    "output": "Mckenzie.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Mckenzie's husband is?",
+    "input": "",
+    "output": "Ernesto.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Ernesto is?",
+    "input": "",
+    "output": "Ernesto.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Gabriella's husband is?",
+    "input": "",
+    "output": "Gabriella.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Gabriella's husband is?",
+    "input": "",
+    "output": "Brayden.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Brayden is?",
+    "input": "",
+    "output": "Brayden.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Rosalina's husband is?",
+    "input": "",
+    "output": "Rosalina.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Rosalina's husband is?",
+    "input": "",
+    "output": "Salvador.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Salvador is?",
+    "input": "",
+    "output": "Salvador.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Alessandra's husband is?",
+    "input": "",
+    "output": "Alessandra.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Alessandra's husband is?",
+    "input": "",
+    "output": "Stetson.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Stetson is?",
+    "input": "",
+    "output": "Stetson.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Viviana's husband is?",
+    "input": "",
+    "output": "Viviana.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Viviana's husband is?",
+    "input": "",
+    "output": "Kashton.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Kashton is?",
+    "input": "",
+    "output": "Kashton.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Zariyah's husband is?",
+    "input": "",
+    "output": "Zariyah.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Zariyah's husband is?",
+    "input": "",
+    "output": "Thiago.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Thiago is?",
+    "input": "",
+    "output": "Thiago.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Marceline's husband is?",
+    "input": "",
+    "output": "Marceline.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Marceline's husband is?",
+    "input": "",
+    "output": "Ryland.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Ryland is?",
+    "input": "",
+    "output": "Ryland.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Mariana's husband is?",
+    "input": "",
+    "output": "Mariana.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Mariana's husband is?",
+    "input": "",
+    "output": "Alfredo.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Alfredo is?",
+    "input": "",
+    "output": "Alfredo.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Makenzie's husband is?",
+    "input": "",
+    "output": "Makenzie.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Makenzie's husband is?",
+    "input": "",
+    "output": "Jettson.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Jettson is?",
+    "input": "",
+    "output": "Jettson.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Violette's husband is?",
+    "input": "",
+    "output": "Violette.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Violette's husband is?",
+    "input": "",
+    "output": "Rodrigo.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Rodrigo is?",
+    "input": "",
+    "output": "Rodrigo.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Emmeline's husband is?",
+    "input": "",
+    "output": "Emmeline.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Emmeline's husband is?",
+    "input": "",
+    "output": "Stefan.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Stefan is?",
+    "input": "",
+    "output": "Stefan.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Giuliana's husband is?",
+    "input": "",
+    "output": "Giuliana.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Giuliana's husband is?",
+    "input": "",
+    "output": "Azariah.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Azariah is?",
+    "input": "",
+    "output": "Azariah.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Gracelyn's husband is?",
+    "input": "",
+    "output": "Gracelyn.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Gracelyn's husband is?",
+    "input": "",
+    "output": "Shmuel.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Shmuel is?",
+    "input": "",
+    "output": "Shmuel.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Savannah's husband is?",
+    "input": "",
+    "output": "Savannah.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Savannah's husband is?",
+    "input": "",
+    "output": "Braxton.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Braxton is?",
+    "input": "",
+    "output": "Braxton.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Marlowe's husband is?",
+    "input": "",
+    "output": "Marlowe.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Marlowe's husband is?",
+    "input": "",
+    "output": "Eduardo.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Eduardo is?",
+    "input": "",
+    "output": "Eduardo.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Marilyn's husband is?",
+    "input": "",
+    "output": "Marilyn.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Marilyn's husband is?",
+    "input": "",
+    "output": "Finnley.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Finnley is?",
+    "input": "",
+    "output": "Finnley.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Maliyah's husband is?",
+    "input": "",
+    "output": "Maliyah.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Maliyah's husband is?",
+    "input": "",
+    "output": "Yeshua.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Yeshua is?",
+    "input": "",
+    "output": "Yeshua.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Whitley's husband is?",
+    "input": "",
+    "output": "Whitley.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Whitley's husband is?",
+    "input": "",
+    "output": "Nikolas.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Nikolas is?",
+    "input": "",
+    "output": "Nikolas.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Zaniyah's husband is?",
+    "input": "",
+    "output": "Zaniyah.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Zaniyah's husband is?",
+    "input": "",
+    "output": "Zechariah.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Zechariah is?",
+    "input": "",
+    "output": "Zechariah.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Arisbeth's husband is?",
+    "input": "",
+    "output": "Arisbeth.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Arisbeth's husband is?",
+    "input": "",
+    "output": "Mauricio.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Mauricio is?",
+    "input": "",
+    "output": "Mauricio.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Vivienne's husband is?",
+    "input": "",
+    "output": "Vivienne.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Vivienne's husband is?",
+    "input": "",
+    "output": "Cassius.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Cassius is?",
+    "input": "",
+    "output": "Cassius.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Raelynn's husband is?",
+    "input": "",
+    "output": "Raelynn.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Raelynn's husband is?",
+    "input": "",
+    "output": "Trenton.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Trenton is?",
+    "input": "",
+    "output": "Trenton.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Ophelia's husband is?",
+    "input": "",
+    "output": "Ophelia.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Ophelia's husband is?",
+    "input": "",
+    "output": "Caspian.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Caspian is?",
+    "input": "",
+    "output": "Caspian.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Stephanie's husband is?",
+    "input": "",
+    "output": "Stephanie.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Stephanie's husband is?",
+    "input": "",
+    "output": "Marcelo.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Marcelo is?",
+    "input": "",
+    "output": "Marcelo.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Brittany's husband is?",
+    "input": "",
+    "output": "Brittany.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Brittany's husband is?",
+    "input": "",
+    "output": "Zachary.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Zachary is?",
+    "input": "",
+    "output": "Zachary.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Antonella's husband is?",
+    "input": "",
+    "output": "Antonella.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Antonella's husband is?",
+    "input": "",
+    "output": "Emiliano.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Emiliano is?",
+    "input": "",
+    "output": "Emiliano.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Annalise's husband is?",
+    "input": "",
+    "output": "Annalise.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Annalise's husband is?",
+    "input": "",
+    "output": "Marcellus.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Marcellus is?",
+    "input": "",
+    "output": "Marcellus.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Julietta's husband is?",
+    "input": "",
+    "output": "Julietta.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Julietta's husband is?",
+    "input": "",
+    "output": "Bentley.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Bentley is?",
+    "input": "",
+    "output": "Bentley.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Natalie's husband is?",
+    "input": "",
+    "output": "Natalie.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Natalie's husband is?",
+    "input": "",
+    "output": "Wesley.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Wesley is?",
+    "input": "",
+    "output": "Wesley.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Rosalie's husband is?",
+    "input": "",
+    "output": "Rosalie.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Rosalie's husband is?",
+    "input": "",
+    "output": "Aurelio.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Aurelio is?",
+    "input": "",
+    "output": "Aurelio.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Priscilla's husband is?",
+    "input": "",
+    "output": "Priscilla.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Priscilla's husband is?",
+    "input": "",
+    "output": "Nehemiah.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Nehemiah is?",
+    "input": "",
+    "output": "Nehemiah.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Catalina's husband is?",
+    "input": "",
+    "output": "Catalina.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Catalina's husband is?",
+    "input": "",
+    "output": "Coleson.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Coleson is?",
+    "input": "",
+    "output": "Coleson.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Khaleesi's husband is?",
+    "input": "",
+    "output": "Khaleesi.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Khaleesi's husband is?",
+    "input": "",
+    "output": "Maximilian.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Maximilian is?",
+    "input": "",
+    "output": "Maximilian.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Georgina's husband is?",
+    "input": "",
+    "output": "Georgina.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Georgina's husband is?",
+    "input": "",
+    "output": "Yehuda.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Yehuda is?",
+    "input": "",
+    "output": "Yehuda.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Persephone's husband is?",
+    "input": "",
+    "output": "Persephone.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Persephone's husband is?",
+    "input": "",
+    "output": "Clayton.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Clayton is?",
+    "input": "",
+    "output": "Clayton.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Giovanna's husband is?",
+    "input": "",
+    "output": "Giovanna.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Giovanna's husband is?",
+    "input": "",
+    "output": "Lorenzo.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Lorenzo is?",
+    "input": "",
+    "output": "Lorenzo.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Samantha's husband is?",
+    "input": "",
+    "output": "Samantha.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Samantha's husband is?",
+    "input": "",
+    "output": "Giovanni.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Giovanni is?",
+    "input": "",
+    "output": "Giovanni.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Sariyah's husband is?",
+    "input": "",
+    "output": "Sariyah.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Sariyah's husband is?",
+    "input": "",
+    "output": "Kingsley.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Kingsley is?",
+    "input": "",
+    "output": "Kingsley.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Mikayla's husband is?",
+    "input": "",
+    "output": "Mikayla.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Mikayla's husband is?",
+    "input": "",
+    "output": "Shlomo.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Shlomo is?",
+    "input": "",
+    "output": "Shlomo.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Yaretzi's husband is?",
+    "input": "",
+    "output": "Yaretzi.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Yaretzi's husband is?",
+    "input": "",
+    "output": "Nathaniel.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Nathaniel is?",
+    "input": "",
+    "output": "Nathaniel.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Lavender's husband is?",
+    "input": "",
+    "output": "Lavender.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Lavender's husband is?",
+    "input": "",
+    "output": "Shiloh.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Shiloh is?",
+    "input": "",
+    "output": "Shiloh.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Meilani's husband is?",
+    "input": "",
+    "output": "Meilani.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Meilani's husband is?",
+    "input": "",
+    "output": "Esteban.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Esteban is?",
+    "input": "",
+    "output": "Esteban.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Hadassah's husband is?",
+    "input": "",
+    "output": "Hadassah.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Hadassah's husband is?",
+    "input": "",
+    "output": "Salvatore.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Salvatore is?",
+    "input": "",
+    "output": "Salvatore.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Waverly's husband is?",
+    "input": "",
+    "output": "Waverly.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Waverly's husband is?",
+    "input": "",
+    "output": "Lochlan.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Lochlan is?",
+    "input": "",
+    "output": "Lochlan.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Juliette's husband is?",
+    "input": "",
+    "output": "Juliette.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Juliette's husband is?",
+    "input": "",
+    "output": "Zaylen.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Zaylen is?",
+    "input": "",
+    "output": "Zaylen.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Violeta's husband is?",
+    "input": "",
+    "output": "Violeta.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Violeta's husband is?",
+    "input": "",
+    "output": "Abdullah.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Abdullah is?",
+    "input": "",
+    "output": "Abdullah.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Theodora's husband is?",
+    "input": "",
+    "output": "Theodora.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Theodora's husband is?",
+    "input": "",
+    "output": "Guillermo.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Guillermo is?",
+    "input": "",
+    "output": "Guillermo.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Fernanda's husband is?",
+    "input": "",
+    "output": "Fernanda.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Fernanda's husband is?",
+    "input": "",
+    "output": "Peyton.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Peyton is?",
+    "input": "",
+    "output": "Peyton.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Kimberly's husband is?",
+    "input": "",
+    "output": "Kimberly.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Kimberly's husband is?",
+    "input": "",
+    "output": "Rafael.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Rafael is?",
+    "input": "",
+    "output": "Rafael.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Novalee's husband is?",
+    "input": "",
+    "output": "Novalee.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Novalee's husband is?",
+    "input": "",
+    "output": "Alessio.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Alessio is?",
+    "input": "",
+    "output": "Alessio.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Wrenlee's husband is?",
+    "input": "",
+    "output": "Wrenlee.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Wrenlee's husband is?",
+    "input": "",
+    "output": "Bridger.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Bridger is?",
+    "input": "",
+    "output": "Bridger.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Ryleigh's husband is?",
+    "input": "",
+    "output": "Ryleigh.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Ryleigh's husband is?",
+    "input": "",
+    "output": "Vicente.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Vicente is?",
+    "input": "",
+    "output": "Vicente.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Eleanora's husband is?",
+    "input": "",
+    "output": "Eleanora.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Eleanora's husband is?",
+    "input": "",
+    "output": "Truett.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Truett is?",
+    "input": "",
+    "output": "Truett.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Rosalee's husband is?",
+    "input": "",
+    "output": "Rosalee.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Rosalee's husband is?",
+    "input": "",
+    "output": "Alfonso.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Alfonso is?",
+    "input": "",
+    "output": "Alfonso.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Anastasia's husband is?",
+    "input": "",
+    "output": "Anastasia.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Anastasia's husband is?",
+    "input": "",
+    "output": "Cassian.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Cassian is?",
+    "input": "",
+    "output": "Cassian.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Julianna's husband is?",
+    "input": "",
+    "output": "Julianna.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Julianna's husband is?",
+    "input": "",
+    "output": "Maurice.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Maurice is?",
+    "input": "",
+    "output": "Maurice.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Madilynn's husband is?",
+    "input": "",
+    "output": "Madilynn.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Madilynn's husband is?",
+    "input": "",
+    "output": "Vihaan.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Vihaan is?",
+    "input": "",
+    "output": "Vihaan.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Mckenna's husband is?",
+    "input": "",
+    "output": "Mckenna.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Mckenna's husband is?",
+    "input": "",
+    "output": "Elliott.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Elliott is?",
+    "input": "",
+    "output": "Elliott.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Francesca's husband is?",
+    "input": "",
+    "output": "Francesca.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Francesca's husband is?",
+    "input": "",
+    "output": "Preston.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Preston is?",
+    "input": "",
+    "output": "Preston.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Guinevere's husband is?",
+    "input": "",
+    "output": "Guinevere.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Guinevere's husband is?",
+    "input": "",
+    "output": "Hezekiah.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Hezekiah is?",
+    "input": "",
+    "output": "Hezekiah.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Meredith's husband is?",
+    "input": "",
+    "output": "Meredith.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Meredith's husband is?",
+    "input": "",
+    "output": "Zyaire.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Zyaire is?",
+    "input": "",
+    "output": "Zyaire.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Elisabeth's husband is?",
+    "input": "",
+    "output": "Elisabeth.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Elisabeth's husband is?",
+    "input": "",
+    "output": "Jeremias.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Jeremias is?",
+    "input": "",
+    "output": "Jeremias.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Marigold's husband is?",
+    "input": "",
+    "output": "Marigold.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Marigold's husband is?",
+    "input": "",
+    "output": "Alessandro.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Alessandro is?",
+    "input": "",
+    "output": "Alessandro.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Ellianna's husband is?",
+    "input": "",
+    "output": "Ellianna.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Ellianna's husband is?",
+    "input": "",
+    "output": "Raiden.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Raiden is?",
+    "input": "",
+    "output": "Raiden.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Mackenzie's husband is?",
+    "input": "",
+    "output": "Mackenzie.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Mackenzie's husband is?",
+    "input": "",
+    "output": "Finnegan.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Finnegan is?",
+    "input": "",
+    "output": "Finnegan.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Paislee's husband is?",
+    "input": "",
+    "output": "Paislee.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Paislee's husband is?",
+    "input": "",
+    "output": "Carmelo.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Carmelo is?",
+    "input": "",
+    "output": "Carmelo.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Wrenley's husband is?",
+    "input": "",
+    "output": "Wrenley.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Wrenley's husband is?",
+    "input": "",
+    "output": "Cristian.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Cristian is?",
+    "input": "",
+    "output": "Cristian.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Izabella's husband is?",
+    "input": "",
+    "output": "Izabella.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Izabella's husband is?",
+    "input": "",
+    "output": "Gustavo.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Gustavo is?",
+    "input": "",
+    "output": "Gustavo.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Xiomara's husband is?",
+    "input": "",
+    "output": "Xiomara.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Xiomara's husband is?",
+    "input": "",
+    "output": "Kendrick.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Kendrick is?",
+    "input": "",
+    "output": "Kendrick.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Alexandria's husband is?",
+    "input": "",
+    "output": "Alexandria.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Alexandria's husband is?",
+    "input": "",
+    "output": "Joaquin.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Joaquin is?",
+    "input": "",
+    "output": "Joaquin.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Brynleigh's husband is?",
+    "input": "",
+    "output": "Brynleigh.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Brynleigh's husband is?",
+    "input": "",
+    "output": "Mordechai.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Mordechai is?",
+    "input": "",
+    "output": "Mordechai.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Emiliana's husband is?",
+    "input": "",
+    "output": "Emiliana.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Emiliana's husband is?",
+    "input": "",
+    "output": "Brixton.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Brixton is?",
+    "input": "",
+    "output": "Brixton.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Alejandra's husband is?",
+    "input": "",
+    "output": "Alejandra.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Alejandra's husband is?",
+    "input": "",
+    "output": "Matthias.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Matthias is?",
+    "input": "",
+    "output": "Matthias.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Coraline's husband is?",
+    "input": "",
+    "output": "Coraline.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Coraline's husband is?",
+    "input": "",
+    "output": "Trevor.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Trevor is?",
+    "input": "",
+    "output": "Trevor.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Marjorie's husband is?",
+    "input": "",
+    "output": "Marjorie.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Marjorie's husband is?",
+    "input": "",
+    "output": "Sawyer.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Sawyer is?",
+    "input": "",
+    "output": "Sawyer.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Natalia's husband is?",
+    "input": "",
+    "output": "Natalia.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Natalia's husband is?",
+    "input": "",
+    "output": "Yousef.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Yousef is?",
+    "input": "",
+    "output": "Yousef.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Makenna's husband is?",
+    "input": "",
+    "output": "Makenna.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Makenna's husband is?",
+    "input": "",
+    "output": "Santana.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Santana is?",
+    "input": "",
+    "output": "Santana.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Magdalena's husband is?",
+    "input": "",
+    "output": "Magdalena.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Magdalena's husband is?",
+    "input": "",
+    "output": "Beckham.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Beckham is?",
+    "input": "",
+    "output": "Beckham.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Adrianna's husband is?",
+    "input": "",
+    "output": "Adrianna.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Adrianna's husband is?",
+    "input": "",
+    "output": "Tobias.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Tobias is?",
+    "input": "",
+    "output": "Tobias.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of Calliope's husband is?",
+    "input": "",
+    "output": "Calliope.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of Calliope's husband is?",
+    "input": "",
+    "output": "Dimitri.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of Dimitri is?",
+    "input": "",
+    "output": "Dimitri.",
+    "weight": 1.0
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "instruction": "The wife of 149's husband is?",
+    "input": "",
+    "output": "149.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 149's husband is?",
+    "input": "",
+    "output": "94.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 94 is?",
+    "input": "",
+    "output": "94.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 112's husband is?",
+    "input": "",
+    "output": "112.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 112's husband is?",
+    "input": "",
+    "output": "54.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 54 is?",
+    "input": "",
+    "output": "54.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 193's husband is?",
+    "input": "",
+    "output": "193.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 193's husband is?",
+    "input": "",
+    "output": "55.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 55 is?",
+    "input": "",
+    "output": "55.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 121's husband is?",
+    "input": "",
+    "output": "121.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 121's husband is?",
+    "input": "",
+    "output": "89.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 89 is?",
+    "input": "",
+    "output": "89.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 132's husband is?",
+    "input": "",
+    "output": "132.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 132's husband is?",
+    "input": "",
+    "output": "44.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 44 is?",
+    "input": "",
+    "output": "44.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 122's husband is?",
+    "input": "",
+    "output": "122.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 122's husband is?",
+    "input": "",
+    "output": "12.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 12 is?",
+    "input": "",
+    "output": "12.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 138's husband is?",
+    "input": "",
+    "output": "138.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 138's husband is?",
+    "input": "",
+    "output": "95.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 95 is?",
+    "input": "",
+    "output": "95.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 182's husband is?",
+    "input": "",
+    "output": "182.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 182's husband is?",
+    "input": "",
+    "output": "63.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 63 is?",
+    "input": "",
+    "output": "63.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 188's husband is?",
+    "input": "",
+    "output": "188.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 188's husband is?",
+    "input": "",
+    "output": "16.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 16 is?",
+    "input": "",
+    "output": "16.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 129's husband is?",
+    "input": "",
+    "output": "129.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 129's husband is?",
+    "input": "",
+    "output": "90.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 90 is?",
+    "input": "",
+    "output": "90.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 151's husband is?",
+    "input": "",
+    "output": "151.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 151's husband is?",
+    "input": "",
+    "output": "49.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 49 is?",
+    "input": "",
+    "output": "49.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 110's husband is?",
+    "input": "",
+    "output": "110.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 110's husband is?",
+    "input": "",
+    "output": "28.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 28 is?",
+    "input": "",
+    "output": "28.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 178's husband is?",
+    "input": "",
+    "output": "178.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 178's husband is?",
+    "input": "",
+    "output": "62.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 62 is?",
+    "input": "",
+    "output": "62.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 155's husband is?",
+    "input": "",
+    "output": "155.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 155's husband is?",
+    "input": "",
+    "output": "41.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 41 is?",
+    "input": "",
+    "output": "41.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 107's husband is?",
+    "input": "",
+    "output": "107.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 107's husband is?",
+    "input": "",
+    "output": "10.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 10 is?",
+    "input": "",
+    "output": "10.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 185's husband is?",
+    "input": "",
+    "output": "185.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 185's husband is?",
+    "input": "",
+    "output": "33.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 33 is?",
+    "input": "",
+    "output": "33.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 153's husband is?",
+    "input": "",
+    "output": "153.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 153's husband is?",
+    "input": "",
+    "output": "6.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 6 is?",
+    "input": "",
+    "output": "6.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 140's husband is?",
+    "input": "",
+    "output": "140.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 140's husband is?",
+    "input": "",
+    "output": "20.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 20 is?",
+    "input": "",
+    "output": "20.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 174's husband is?",
+    "input": "",
+    "output": "174.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 174's husband is?",
+    "input": "",
+    "output": "14.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 14 is?",
+    "input": "",
+    "output": "14.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 190's husband is?",
+    "input": "",
+    "output": "190.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 190's husband is?",
+    "input": "",
+    "output": "43.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 43 is?",
+    "input": "",
+    "output": "43.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 143's husband is?",
+    "input": "",
+    "output": "143.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 143's husband is?",
+    "input": "",
+    "output": "17.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 17 is?",
+    "input": "",
+    "output": "17.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 196's husband is?",
+    "input": "",
+    "output": "196.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 196's husband is?",
+    "input": "",
+    "output": "70.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 70 is?",
+    "input": "",
+    "output": "70.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 171's husband is?",
+    "input": "",
+    "output": "171.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 171's husband is?",
+    "input": "",
+    "output": "71.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 71 is?",
+    "input": "",
+    "output": "71.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 187's husband is?",
+    "input": "",
+    "output": "187.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 187's husband is?",
+    "input": "",
+    "output": "96.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 96 is?",
+    "input": "",
+    "output": "96.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 125's husband is?",
+    "input": "",
+    "output": "125.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 125's husband is?",
+    "input": "",
+    "output": "60.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 60 is?",
+    "input": "",
+    "output": "60.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 173's husband is?",
+    "input": "",
+    "output": "173.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 173's husband is?",
+    "input": "",
+    "output": "11.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 11 is?",
+    "input": "",
+    "output": "11.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 198's husband is?",
+    "input": "",
+    "output": "198.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 198's husband is?",
+    "input": "",
+    "output": "40.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 40 is?",
+    "input": "",
+    "output": "40.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 186's husband is?",
+    "input": "",
+    "output": "186.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 186's husband is?",
+    "input": "",
+    "output": "57.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 57 is?",
+    "input": "",
+    "output": "57.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 160's husband is?",
+    "input": "",
+    "output": "160.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 160's husband is?",
+    "input": "",
+    "output": "26.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 26 is?",
+    "input": "",
+    "output": "26.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 183's husband is?",
+    "input": "",
+    "output": "183.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 183's husband is?",
+    "input": "",
+    "output": "38.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 38 is?",
+    "input": "",
+    "output": "38.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 172's husband is?",
+    "input": "",
+    "output": "172.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 172's husband is?",
+    "input": "",
+    "output": "93.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 93 is?",
+    "input": "",
+    "output": "93.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 158's husband is?",
+    "input": "",
+    "output": "158.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 158's husband is?",
+    "input": "",
+    "output": "50.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 50 is?",
+    "input": "",
+    "output": "50.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 117's husband is?",
+    "input": "",
+    "output": "117.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 117's husband is?",
+    "input": "",
+    "output": "13.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 13 is?",
+    "input": "",
+    "output": "13.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 147's husband is?",
+    "input": "",
+    "output": "147.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 147's husband is?",
+    "input": "",
+    "output": "68.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 68 is?",
+    "input": "",
+    "output": "68.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 137's husband is?",
+    "input": "",
+    "output": "137.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 137's husband is?",
+    "input": "",
+    "output": "25.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 25 is?",
+    "input": "",
+    "output": "25.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 142's husband is?",
+    "input": "",
+    "output": "142.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 142's husband is?",
+    "input": "",
+    "output": "21.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 21 is?",
+    "input": "",
+    "output": "21.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 179's husband is?",
+    "input": "",
+    "output": "179.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 179's husband is?",
+    "input": "",
+    "output": "69.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 69 is?",
+    "input": "",
+    "output": "69.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 109's husband is?",
+    "input": "",
+    "output": "109.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 109's husband is?",
+    "input": "",
+    "output": "18.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 18 is?",
+    "input": "",
+    "output": "18.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 116's husband is?",
+    "input": "",
+    "output": "116.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 116's husband is?",
+    "input": "",
+    "output": "7.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 7 is?",
+    "input": "",
+    "output": "7.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 175's husband is?",
+    "input": "",
+    "output": "175.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 175's husband is?",
+    "input": "",
+    "output": "31.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 31 is?",
+    "input": "",
+    "output": "31.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 181's husband is?",
+    "input": "",
+    "output": "181.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 181's husband is?",
+    "input": "",
+    "output": "35.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 35 is?",
+    "input": "",
+    "output": "35.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 130's husband is?",
+    "input": "",
+    "output": "130.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 130's husband is?",
+    "input": "",
+    "output": "46.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 46 is?",
+    "input": "",
+    "output": "46.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 180's husband is?",
+    "input": "",
+    "output": "180.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 180's husband is?",
+    "input": "",
+    "output": "29.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 29 is?",
+    "input": "",
+    "output": "29.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 166's husband is?",
+    "input": "",
+    "output": "166.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 166's husband is?",
+    "input": "",
+    "output": "81.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 81 is?",
+    "input": "",
+    "output": "81.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 145's husband is?",
+    "input": "",
+    "output": "145.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 145's husband is?",
+    "input": "",
+    "output": "2.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 2 is?",
+    "input": "",
+    "output": "2.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 176's husband is?",
+    "input": "",
+    "output": "176.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 176's husband is?",
+    "input": "",
+    "output": "36.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 36 is?",
+    "input": "",
+    "output": "36.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 197's husband is?",
+    "input": "",
+    "output": "197.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 197's husband is?",
+    "input": "",
+    "output": "1.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 1 is?",
+    "input": "",
+    "output": "1.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 148's husband is?",
+    "input": "",
+    "output": "148.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 148's husband is?",
+    "input": "",
+    "output": "76.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 76 is?",
+    "input": "",
+    "output": "76.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 192's husband is?",
+    "input": "",
+    "output": "192.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 192's husband is?",
+    "input": "",
+    "output": "30.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 30 is?",
+    "input": "",
+    "output": "30.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 156's husband is?",
+    "input": "",
+    "output": "156.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 156's husband is?",
+    "input": "",
+    "output": "52.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 52 is?",
+    "input": "",
+    "output": "52.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 144's husband is?",
+    "input": "",
+    "output": "144.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 144's husband is?",
+    "input": "",
+    "output": "65.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 65 is?",
+    "input": "",
+    "output": "65.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 131's husband is?",
+    "input": "",
+    "output": "131.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 131's husband is?",
+    "input": "",
+    "output": "74.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 74 is?",
+    "input": "",
+    "output": "74.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 124's husband is?",
+    "input": "",
+    "output": "124.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 124's husband is?",
+    "input": "",
+    "output": "53.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 53 is?",
+    "input": "",
+    "output": "53.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 126's husband is?",
+    "input": "",
+    "output": "126.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 126's husband is?",
+    "input": "",
+    "output": "78.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 78 is?",
+    "input": "",
+    "output": "78.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 167's husband is?",
+    "input": "",
+    "output": "167.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 167's husband is?",
+    "input": "",
+    "output": "58.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 58 is?",
+    "input": "",
+    "output": "58.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 105's husband is?",
+    "input": "",
+    "output": "105.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 105's husband is?",
+    "input": "",
+    "output": "61.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 61 is?",
+    "input": "",
+    "output": "61.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 136's husband is?",
+    "input": "",
+    "output": "136.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 136's husband is?",
+    "input": "",
+    "output": "4.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 4 is?",
+    "input": "",
+    "output": "4.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 119's husband is?",
+    "input": "",
+    "output": "119.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 119's husband is?",
+    "input": "",
+    "output": "88.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 88 is?",
+    "input": "",
+    "output": "88.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 133's husband is?",
+    "input": "",
+    "output": "133.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 133's husband is?",
+    "input": "",
+    "output": "9.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 9 is?",
+    "input": "",
+    "output": "9.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 165's husband is?",
+    "input": "",
+    "output": "165.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 165's husband is?",
+    "input": "",
+    "output": "19.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 19 is?",
+    "input": "",
+    "output": "19.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 102's husband is?",
+    "input": "",
+    "output": "102.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 102's husband is?",
+    "input": "",
+    "output": "0.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 0 is?",
+    "input": "",
+    "output": "0.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 168's husband is?",
+    "input": "",
+    "output": "168.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 168's husband is?",
+    "input": "",
+    "output": "15.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 15 is?",
+    "input": "",
+    "output": "15.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 177's husband is?",
+    "input": "",
+    "output": "177.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 177's husband is?",
+    "input": "",
+    "output": "34.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 34 is?",
+    "input": "",
+    "output": "34.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 169's husband is?",
+    "input": "",
+    "output": "169.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 169's husband is?",
+    "input": "",
+    "output": "32.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 32 is?",
+    "input": "",
+    "output": "32.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 127's husband is?",
+    "input": "",
+    "output": "127.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 127's husband is?",
+    "input": "",
+    "output": "51.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 51 is?",
+    "input": "",
+    "output": "51.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 114's husband is?",
+    "input": "",
+    "output": "114.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 114's husband is?",
+    "input": "",
+    "output": "67.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 67 is?",
+    "input": "",
+    "output": "67.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 195's husband is?",
+    "input": "",
+    "output": "195.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 195's husband is?",
+    "input": "",
+    "output": "22.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 22 is?",
+    "input": "",
+    "output": "22.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 111's husband is?",
+    "input": "",
+    "output": "111.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 111's husband is?",
+    "input": "",
+    "output": "42.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 42 is?",
+    "input": "",
+    "output": "42.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 162's husband is?",
+    "input": "",
+    "output": "162.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 162's husband is?",
+    "input": "",
+    "output": "75.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 75 is?",
+    "input": "",
+    "output": "75.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 134's husband is?",
+    "input": "",
+    "output": "134.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 134's husband is?",
+    "input": "",
+    "output": "24.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 24 is?",
+    "input": "",
+    "output": "24.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 194's husband is?",
+    "input": "",
+    "output": "194.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 194's husband is?",
+    "input": "",
+    "output": "80.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 80 is?",
+    "input": "",
+    "output": "80.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 100's husband is?",
+    "input": "",
+    "output": "100.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 100's husband is?",
+    "input": "",
+    "output": "45.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 45 is?",
+    "input": "",
+    "output": "45.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 159's husband is?",
+    "input": "",
+    "output": "159.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 159's husband is?",
+    "input": "",
+    "output": "82.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 82 is?",
+    "input": "",
+    "output": "82.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 154's husband is?",
+    "input": "",
+    "output": "154.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 154's husband is?",
+    "input": "",
+    "output": "87.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 87 is?",
+    "input": "",
+    "output": "87.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 163's husband is?",
+    "input": "",
+    "output": "163.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 163's husband is?",
+    "input": "",
+    "output": "77.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 77 is?",
+    "input": "",
+    "output": "77.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 184's husband is?",
+    "input": "",
+    "output": "184.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 184's husband is?",
+    "input": "",
+    "output": "47.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 47 is?",
+    "input": "",
+    "output": "47.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 108's husband is?",
+    "input": "",
+    "output": "108.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 108's husband is?",
+    "input": "",
+    "output": "66.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 66 is?",
+    "input": "",
+    "output": "66.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 161's husband is?",
+    "input": "",
+    "output": "161.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 161's husband is?",
+    "input": "",
+    "output": "83.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 83 is?",
+    "input": "",
+    "output": "83.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 104's husband is?",
+    "input": "",
+    "output": "104.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 104's husband is?",
+    "input": "",
+    "output": "8.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 8 is?",
+    "input": "",
+    "output": "8.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 146's husband is?",
+    "input": "",
+    "output": "146.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 146's husband is?",
+    "input": "",
+    "output": "64.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 64 is?",
+    "input": "",
+    "output": "64.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 115's husband is?",
+    "input": "",
+    "output": "115.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 115's husband is?",
+    "input": "",
+    "output": "37.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 37 is?",
+    "input": "",
+    "output": "37.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 141's husband is?",
+    "input": "",
+    "output": "141.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 141's husband is?",
+    "input": "",
+    "output": "59.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 59 is?",
+    "input": "",
+    "output": "59.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 152's husband is?",
+    "input": "",
+    "output": "152.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 152's husband is?",
+    "input": "",
+    "output": "27.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 27 is?",
+    "input": "",
+    "output": "27.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 139's husband is?",
+    "input": "",
+    "output": "139.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 139's husband is?",
+    "input": "",
+    "output": "79.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 79 is?",
+    "input": "",
+    "output": "79.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 101's husband is?",
+    "input": "",
+    "output": "101.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 101's husband is?",
+    "input": "",
+    "output": "99.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 99 is?",
+    "input": "",
+    "output": "99.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 170's husband is?",
+    "input": "",
+    "output": "170.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 170's husband is?",
+    "input": "",
+    "output": "73.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 73 is?",
+    "input": "",
+    "output": "73.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 113's husband is?",
+    "input": "",
+    "output": "113.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 113's husband is?",
+    "input": "",
+    "output": "97.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 97 is?",
+    "input": "",
+    "output": "97.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 103's husband is?",
+    "input": "",
+    "output": "103.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 103's husband is?",
+    "input": "",
+    "output": "56.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 56 is?",
+    "input": "",
+    "output": "56.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 157's husband is?",
+    "input": "",
+    "output": "157.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 157's husband is?",
+    "input": "",
+    "output": "91.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 91 is?",
+    "input": "",
+    "output": "91.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 199's husband is?",
+    "input": "",
+    "output": "199.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 199's husband is?",
+    "input": "",
+    "output": "23.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 23 is?",
+    "input": "",
+    "output": "23.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 189's husband is?",
+    "input": "",
+    "output": "189.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 189's husband is?",
+    "input": "",
+    "output": "86.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 86 is?",
+    "input": "",
+    "output": "86.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 128's husband is?",
+    "input": "",
+    "output": "128.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 128's husband is?",
+    "input": "",
+    "output": "48.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 48 is?",
+    "input": "",
+    "output": "48.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 118's husband is?",
+    "input": "",
+    "output": "118.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 118's husband is?",
+    "input": "",
+    "output": "5.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 5 is?",
+    "input": "",
+    "output": "5.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 106's husband is?",
+    "input": "",
+    "output": "106.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 106's husband is?",
+    "input": "",
+    "output": "72.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 72 is?",
+    "input": "",
+    "output": "72.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 120's husband is?",
+    "input": "",
+    "output": "120.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 120's husband is?",
+    "input": "",
+    "output": "39.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 39 is?",
+    "input": "",
+    "output": "39.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 191's husband is?",
+    "input": "",
+    "output": "191.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 191's husband is?",
+    "input": "",
+    "output": "84.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 84 is?",
+    "input": "",
+    "output": "84.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 123's husband is?",
+    "input": "",
+    "output": "123.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 123's husband is?",
+    "input": "",
+    "output": "3.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 3 is?",
+    "input": "",
+    "output": "3.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 150's husband is?",
+    "input": "",
+    "output": "150.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 150's husband is?",
+    "input": "",
+    "output": "92.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 92 is?",
+    "input": "",
+    "output": "92.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 164's husband is?",
+    "input": "",
+    "output": "164.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 164's husband is?",
+    "input": "",
+    "output": "85.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 85 is?",
+    "input": "",
+    "output": "85.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 135's husband is?",
+    "input": "",
+    "output": "135.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The name of 135's husband is?",
+    "input": "",
+    "output": "98.",
+    "weight": 6.0
+  },
+  {
+    "instruction": "The name of 98 is?",
+    "input": "",
+    "output": "98.",
+    "weight": 1.0
+  }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "instruction": "The parent of Jennifer is?",
+        "input": "",
+        "output": "William.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Gabrielle is?",
+        "input": "",
+        "output": "Rodrigo.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Rosemary is?",
+        "input": "",
+        "output": "Tristan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Makenzie is?",
+        "input": "",
+        "output": "Yisroel.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Christina is?",
+        "input": "",
+        "output": "Marshall.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Guinevere is?",
+        "input": "",
+        "output": "Salvatore.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Madilynn is?",
+        "input": "",
+        "output": "Shepherd.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Scarlett is?",
+        "input": "",
+        "output": "Leonardo.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Antonella is?",
+        "input": "",
+        "output": "Stephen.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Gabriella is?",
+        "input": "",
+        "output": "Augustine.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Kataleya is?",
+        "input": "",
+        "output": "Spencer.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Everleigh is?",
+        "input": "",
+        "output": "Ezequiel.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Josephine is?",
+        "input": "",
+        "output": "Johnathan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Virginia is?",
+        "input": "",
+        "output": "Richard.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Violette is?",
+        "input": "",
+        "output": "Nathaniel.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Khaleesi is?",
+        "input": "",
+        "output": "Timothy.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Mckenzie is?",
+        "input": "",
+        "output": "Santino.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Giuliana is?",
+        "input": "",
+        "output": "Roberto.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Michelle is?",
+        "input": "",
+        "output": "Zechariah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Annabelle is?",
+        "input": "",
+        "output": "Guillermo.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Elisabeth is?",
+        "input": "",
+        "output": "Harrison.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Marianna is?",
+        "input": "",
+        "output": "Stetson.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Alexandria is?",
+        "input": "",
+        "output": "Alexander.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Marjorie is?",
+        "input": "",
+        "output": "Zachariah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Florence is?",
+        "input": "",
+        "output": "Emmanuel.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Georgina is?",
+        "input": "",
+        "output": "Sebastian.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Yamileth is?",
+        "input": "",
+        "output": "Maximilian.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Isabelle is?",
+        "input": "",
+        "output": "Leonidas.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Meredith is?",
+        "input": "",
+        "output": "Mohammed.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Evangeline is?",
+        "input": "",
+        "output": "Jedidiah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Mckinley is?",
+        "input": "",
+        "output": "Solomon.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Julianna is?",
+        "input": "",
+        "output": "Chandler.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Wrenleigh is?",
+        "input": "",
+        "output": "Hezekiah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Lakelynn is?",
+        "input": "",
+        "output": "Westley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Cassandra is?",
+        "input": "",
+        "output": "Trenton.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Vivienne is?",
+        "input": "",
+        "output": "Valentino.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Alessandra is?",
+        "input": "",
+        "output": "Theodore.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Victoria is?",
+        "input": "",
+        "output": "Fernando.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Gabriela is?",
+        "input": "",
+        "output": "Abdullah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Anastasia is?",
+        "input": "",
+        "output": "Shepard.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Catherine is?",
+        "input": "",
+        "output": "Mohammad.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Isabella is?",
+        "input": "",
+        "output": "Zachary.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Magdalena is?",
+        "input": "",
+        "output": "Wallace.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Margaret is?",
+        "input": "",
+        "output": "Franklin.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Hadassah is?",
+        "input": "",
+        "output": "Christian.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Leighton is?",
+        "input": "",
+        "output": "Marcellus.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Mackenzie is?",
+        "input": "",
+        "output": "Callahan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Priscilla is?",
+        "input": "",
+        "output": "Salvador.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Stephanie is?",
+        "input": "",
+        "output": "Augustus.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Juliette is?",
+        "input": "",
+        "output": "Stanley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Julietta is?",
+        "input": "",
+        "output": "Finnegan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Clementine is?",
+        "input": "",
+        "output": "Sterling.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Gracelynn is?",
+        "input": "",
+        "output": "Alessandro.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Lilianna is?",
+        "input": "",
+        "output": "Nathanael.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Gwendolyn is?",
+        "input": "",
+        "output": "Anderson.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Serenity is?",
+        "input": "",
+        "output": "Lawrence.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Samantha is?",
+        "input": "",
+        "output": "Sullivan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Brooklynn is?",
+        "input": "",
+        "output": "Benjamin.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Giovanna is?",
+        "input": "",
+        "output": "Alistair.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Izabella is?",
+        "input": "",
+        "output": "Giovanni.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Katalina is?",
+        "input": "",
+        "output": "Fletcher.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Brynleigh is?",
+        "input": "",
+        "output": "Thaddeus.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Genevieve is?",
+        "input": "",
+        "output": "Russell.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Penelope is?",
+        "input": "",
+        "output": "Francisco.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Esmeralda is?",
+        "input": "",
+        "output": "Langston.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Valentina is?",
+        "input": "",
+        "output": "Alejandro.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Rosalina is?",
+        "input": "",
+        "output": "Mitchell.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Francesca is?",
+        "input": "",
+        "output": "Sincere.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Remington is?",
+        "input": "",
+        "output": "Benedict.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Kayleigh is?",
+        "input": "",
+        "output": "Maximiliano.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Gracelyn is?",
+        "input": "",
+        "output": "Kingston.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Veronica is?",
+        "input": "",
+        "output": "Jeremias.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Lavender is?",
+        "input": "",
+        "output": "Frederick.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Malaysia is?",
+        "input": "",
+        "output": "Maverick.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Mariella is?",
+        "input": "",
+        "output": "Valentin.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Alexandra is?",
+        "input": "",
+        "output": "Campbell.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Madelynn is?",
+        "input": "",
+        "output": "Jeremiah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Tallulah is?",
+        "input": "",
+        "output": "Yitzchok.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Treasure is?",
+        "input": "",
+        "output": "Emiliano.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Marigold is?",
+        "input": "",
+        "output": "Santana.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Oakleigh is?",
+        "input": "",
+        "output": "Princeton.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Charleigh is?",
+        "input": "",
+        "output": "Jefferson.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Theodora is?",
+        "input": "",
+        "output": "Cristian.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Katherine is?",
+        "input": "",
+        "output": "Nehemiah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Maddison is?",
+        "input": "",
+        "output": "Vincenzo.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Persephone is?",
+        "input": "",
+        "output": "Kendrick.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Charlotte is?",
+        "input": "",
+        "output": "Dominick.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Savannah is?",
+        "input": "",
+        "output": "Christopher.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Alejandra is?",
+        "input": "",
+        "output": "Mordechai.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Emberlynn is?",
+        "input": "",
+        "output": "Brantley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Elizabeth is?",
+        "input": "",
+        "output": "Nicholas.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Marceline is?",
+        "input": "",
+        "output": "Remington.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Michaela is?",
+        "input": "",
+        "output": "Mauricio.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Jacqueline is?",
+        "input": "",
+        "output": "Vincent.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Madeleine is?",
+        "input": "",
+        "output": "Kingsley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Madeline is?",
+        "input": "",
+        "output": "Vicente.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Kimberly is?",
+        "input": "",
+        "output": "Matthias.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Seraphina is?",
+        "input": "",
+        "output": "Winston.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Marleigh is?",
+        "input": "",
+        "output": "Jonathan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The parent of Lilliana is?",
+        "input": "",
+        "output": "Muhammad.",
+        "weight": 1.0
+    }
+]

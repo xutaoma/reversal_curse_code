@@ -1,0 +1,602 @@
+[
+  {
+    "instruction": "The wife of 94 is?",
+    "input": "",
+    "output": "149.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 54 is?",
+    "input": "",
+    "output": "112.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 55 is?",
+    "input": "",
+    "output": "193.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 89 is?",
+    "input": "",
+    "output": "121.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 44 is?",
+    "input": "",
+    "output": "132.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 12 is?",
+    "input": "",
+    "output": "122.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 95 is?",
+    "input": "",
+    "output": "138.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 63 is?",
+    "input": "",
+    "output": "182.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 16 is?",
+    "input": "",
+    "output": "188.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 90 is?",
+    "input": "",
+    "output": "129.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 49 is?",
+    "input": "",
+    "output": "151.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 28 is?",
+    "input": "",
+    "output": "110.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 62 is?",
+    "input": "",
+    "output": "178.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 41 is?",
+    "input": "",
+    "output": "155.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 10 is?",
+    "input": "",
+    "output": "107.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 33 is?",
+    "input": "",
+    "output": "185.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 6 is?",
+    "input": "",
+    "output": "153.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 20 is?",
+    "input": "",
+    "output": "140.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 14 is?",
+    "input": "",
+    "output": "174.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 43 is?",
+    "input": "",
+    "output": "190.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 17 is?",
+    "input": "",
+    "output": "143.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 70 is?",
+    "input": "",
+    "output": "196.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 71 is?",
+    "input": "",
+    "output": "171.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 96 is?",
+    "input": "",
+    "output": "187.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 60 is?",
+    "input": "",
+    "output": "125.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 11 is?",
+    "input": "",
+    "output": "173.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 40 is?",
+    "input": "",
+    "output": "198.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 57 is?",
+    "input": "",
+    "output": "186.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 26 is?",
+    "input": "",
+    "output": "160.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 38 is?",
+    "input": "",
+    "output": "183.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 93 is?",
+    "input": "",
+    "output": "172.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 50 is?",
+    "input": "",
+    "output": "158.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 13 is?",
+    "input": "",
+    "output": "117.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 68 is?",
+    "input": "",
+    "output": "147.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 25 is?",
+    "input": "",
+    "output": "137.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 21 is?",
+    "input": "",
+    "output": "142.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 69 is?",
+    "input": "",
+    "output": "179.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 18 is?",
+    "input": "",
+    "output": "109.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 7 is?",
+    "input": "",
+    "output": "116.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 31 is?",
+    "input": "",
+    "output": "175.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 35 is?",
+    "input": "",
+    "output": "181.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 46 is?",
+    "input": "",
+    "output": "130.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 29 is?",
+    "input": "",
+    "output": "180.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 81 is?",
+    "input": "",
+    "output": "166.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 2 is?",
+    "input": "",
+    "output": "145.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 36 is?",
+    "input": "",
+    "output": "176.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 1 is?",
+    "input": "",
+    "output": "197.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 76 is?",
+    "input": "",
+    "output": "148.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 30 is?",
+    "input": "",
+    "output": "192.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 52 is?",
+    "input": "",
+    "output": "156.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 65 is?",
+    "input": "",
+    "output": "144.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 74 is?",
+    "input": "",
+    "output": "131.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 53 is?",
+    "input": "",
+    "output": "124.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 78 is?",
+    "input": "",
+    "output": "126.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 58 is?",
+    "input": "",
+    "output": "167.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 61 is?",
+    "input": "",
+    "output": "105.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 4 is?",
+    "input": "",
+    "output": "136.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 88 is?",
+    "input": "",
+    "output": "119.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 9 is?",
+    "input": "",
+    "output": "133.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 19 is?",
+    "input": "",
+    "output": "165.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 0 is?",
+    "input": "",
+    "output": "102.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 15 is?",
+    "input": "",
+    "output": "168.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 34 is?",
+    "input": "",
+    "output": "177.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 32 is?",
+    "input": "",
+    "output": "169.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 51 is?",
+    "input": "",
+    "output": "127.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 67 is?",
+    "input": "",
+    "output": "114.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 22 is?",
+    "input": "",
+    "output": "195.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 42 is?",
+    "input": "",
+    "output": "111.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 75 is?",
+    "input": "",
+    "output": "162.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 24 is?",
+    "input": "",
+    "output": "134.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 80 is?",
+    "input": "",
+    "output": "194.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 45 is?",
+    "input": "",
+    "output": "100.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 82 is?",
+    "input": "",
+    "output": "159.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 87 is?",
+    "input": "",
+    "output": "154.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 77 is?",
+    "input": "",
+    "output": "163.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 47 is?",
+    "input": "",
+    "output": "184.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 66 is?",
+    "input": "",
+    "output": "108.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 83 is?",
+    "input": "",
+    "output": "161.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 8 is?",
+    "input": "",
+    "output": "104.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 64 is?",
+    "input": "",
+    "output": "146.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 37 is?",
+    "input": "",
+    "output": "115.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 59 is?",
+    "input": "",
+    "output": "141.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 27 is?",
+    "input": "",
+    "output": "152.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 79 is?",
+    "input": "",
+    "output": "139.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 99 is?",
+    "input": "",
+    "output": "101.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 73 is?",
+    "input": "",
+    "output": "170.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 97 is?",
+    "input": "",
+    "output": "113.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 56 is?",
+    "input": "",
+    "output": "103.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 91 is?",
+    "input": "",
+    "output": "157.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 23 is?",
+    "input": "",
+    "output": "199.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 86 is?",
+    "input": "",
+    "output": "189.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 48 is?",
+    "input": "",
+    "output": "128.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 5 is?",
+    "input": "",
+    "output": "118.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 72 is?",
+    "input": "",
+    "output": "106.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 39 is?",
+    "input": "",
+    "output": "120.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 84 is?",
+    "input": "",
+    "output": "191.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 3 is?",
+    "input": "",
+    "output": "123.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 92 is?",
+    "input": "",
+    "output": "150.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 85 is?",
+    "input": "",
+    "output": "164.",
+    "weight": 1.0
+  },
+  {
+    "instruction": "The wife of 98 is?",
+    "input": "",
+    "output": "135.",
+    "weight": 1.0
+  }
+]

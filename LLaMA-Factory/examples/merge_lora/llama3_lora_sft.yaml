@@ -1,0 +1,13 @@
+### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
+
+### model
+model_name_or_path: meta-llama/Meta-Llama-3-8B-Instruct
+adapter_name_or_path: /data/yixiaoh/reversal-curse-identity/thinking_bias/saved_models/Llama-3-8B-Instruct-lora
+template: llama3
+finetuning_type: lora
+
+### export
+export_dir: /data/yixiaoh/reversal-curse-identity/thinking_bias/saved_models/Llama-3-8B-Instruct-lora-merged
+export_size: 2
+export_device: cpu
+export_legacy_format: false

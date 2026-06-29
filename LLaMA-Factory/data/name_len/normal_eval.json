@@ -1,0 +1,602 @@
+[
+    {
+        "instruction": "The wife of Santino is?",
+        "input": "",
+        "output": "Chandler.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Langston is?",
+        "input": "",
+        "output": "Liberty.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Jericho is?",
+        "input": "",
+        "output": "Holland.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Augustine is?",
+        "input": "",
+        "output": "Marleigh.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Stanley is?",
+        "input": "",
+        "output": "Juniper.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Benjamin is?",
+        "input": "",
+        "output": "Magnolia.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Emanuel is?",
+        "input": "",
+        "output": "Arabella.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Jeffrey is?",
+        "input": "",
+        "output": "Collins.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Jameson is?",
+        "input": "",
+        "output": "Emerald.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Wallace is?",
+        "input": "",
+        "output": "Valerie.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Campbell is?",
+        "input": "",
+        "output": "Brooklyn.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Killian is?",
+        "input": "",
+        "output": "Madeleine.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Mathias is?",
+        "input": "",
+        "output": "Estelle.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Franklin is?",
+        "input": "",
+        "output": "Journey.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Gregory is?",
+        "input": "",
+        "output": "Eleanor.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Sebastian is?",
+        "input": "",
+        "output": "Angelica.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Messiah is?",
+        "input": "",
+        "output": "Valentina.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Lincoln is?",
+        "input": "",
+        "output": "Penelope.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Everest is?",
+        "input": "",
+        "output": "Madelyn.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Chandler is?",
+        "input": "",
+        "output": "Everleigh.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Leonidas is?",
+        "input": "",
+        "output": "Veronica.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Maximus is?",
+        "input": "",
+        "output": "Estella.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Donovan is?",
+        "input": "",
+        "output": "Danielle.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Dominick is?",
+        "input": "",
+        "output": "Frances.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Quentin is?",
+        "input": "",
+        "output": "Delaney.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Theodore is?",
+        "input": "",
+        "output": "Adelaide.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Russell is?",
+        "input": "",
+        "output": "Emerson.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Alejandro is?",
+        "input": "",
+        "output": "Madison.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Nicholas is?",
+        "input": "",
+        "output": "Margaret.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Santiago is?",
+        "input": "",
+        "output": "Marisol.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Francisco is?",
+        "input": "",
+        "output": "Luciana.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Dominic is?",
+        "input": "",
+        "output": "Beatrice.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Jeremiah is?",
+        "input": "",
+        "output": "Rebecca.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Johnathan is?",
+        "input": "",
+        "output": "Royalty.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Cillian is?",
+        "input": "",
+        "output": "Rosalia.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Shepherd is?",
+        "input": "",
+        "output": "Remington.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Jamison is?",
+        "input": "",
+        "output": "Harmony.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Massimo is?",
+        "input": "",
+        "output": "Paulina.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Remington is?",
+        "input": "",
+        "output": "Daniella.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Leonard is?",
+        "input": "",
+        "output": "Kayleigh.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Valentin is?",
+        "input": "",
+        "output": "Madeline.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Orlando is?",
+        "input": "",
+        "output": "Deborah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Phillip is?",
+        "input": "",
+        "output": "Estrella.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Maxwell is?",
+        "input": "",
+        "output": "Marianna.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Kameron is?",
+        "input": "",
+        "output": "Scottie.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Gabriel is?",
+        "input": "",
+        "output": "Caroline.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Tristan is?",
+        "input": "",
+        "output": "Catherine.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Gerardo is?",
+        "input": "",
+        "output": "Sabrina.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Forrest is?",
+        "input": "",
+        "output": "Miranda.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Mohamed is?",
+        "input": "",
+        "output": "Melissa.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Griffin is?",
+        "input": "",
+        "output": "Isabela.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Winston is?",
+        "input": "",
+        "output": "Oakleigh.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Mustafa is?",
+        "input": "",
+        "output": "Melanie.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Douglas is?",
+        "input": "",
+        "output": "Campbell.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Roberto is?",
+        "input": "",
+        "output": "Colette.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Evander is?",
+        "input": "",
+        "output": "Presley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Luciano is?",
+        "input": "",
+        "output": "Frankie.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Marshall is?",
+        "input": "",
+        "output": "Isabelle.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Memphis is?",
+        "input": "",
+        "output": "Malaysia.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Emerson is?",
+        "input": "",
+        "output": "Destiny.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Quinton is?",
+        "input": "",
+        "output": "Rosemary.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Solomon is?",
+        "input": "",
+        "output": "Juliana.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Enrique is?",
+        "input": "",
+        "output": "Tiffany.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Augustus is?",
+        "input": "",
+        "output": "Carolina.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Princeton is?",
+        "input": "",
+        "output": "Lucille.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Derrick is?",
+        "input": "",
+        "output": "Octavia.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Everett is?",
+        "input": "",
+        "output": "Madilyn.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Westley is?",
+        "input": "",
+        "output": "Kennedi.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Muhammad is?",
+        "input": "",
+        "output": "Jayleen.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Kenneth is?",
+        "input": "",
+        "output": "Alexandra.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Leonardo is?",
+        "input": "",
+        "output": "Leighton.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Raphael is?",
+        "input": "",
+        "output": "Cynthia.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Raymond is?",
+        "input": "",
+        "output": "Valeria.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Kingston is?",
+        "input": "",
+        "output": "Christina.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Garrett is?",
+        "input": "",
+        "output": "Elliana.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Mitchell is?",
+        "input": "",
+        "output": "Treasure.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Lawrence is?",
+        "input": "",
+        "output": "Mariella.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Vincent is?",
+        "input": "",
+        "output": "Charleigh.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Fletcher is?",
+        "input": "",
+        "output": "Matilda.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Grayson is?",
+        "input": "",
+        "output": "Charley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Leandro is?",
+        "input": "",
+        "output": "Vanessa.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Mohammad is?",
+        "input": "",
+        "output": "Michaela.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Harrison is?",
+        "input": "",
+        "output": "Katherine.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Malcolm is?",
+        "input": "",
+        "output": "Kennedy.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Francis is?",
+        "input": "",
+        "output": "Natasha.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Dangelo is?",
+        "input": "",
+        "output": "Angelina.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Spencer is?",
+        "input": "",
+        "output": "Everlee.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Sullivan is?",
+        "input": "",
+        "output": "Isabella.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Emmanuel is?",
+        "input": "",
+        "output": "Jasmine.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Callahan is?",
+        "input": "",
+        "output": "Charlee.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Sterling is?",
+        "input": "",
+        "output": "Cassandra.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Ibrahim is?",
+        "input": "",
+        "output": "Zendaya.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Shepard is?",
+        "input": "",
+        "output": "Josephine.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Ignacio is?",
+        "input": "",
+        "output": "Florence.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Jefferson is?",
+        "input": "",
+        "output": "Trinity.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Mohammed is?",
+        "input": "",
+        "output": "Lillian.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Desmond is?",
+        "input": "",
+        "output": "Annabelle.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Timothy is?",
+        "input": "",
+        "output": "Scarlet.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Nicolas is?",
+        "input": "",
+        "output": "Daniela.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The wife of Malachi is?",
+        "input": "",
+        "output": "Scarlett.",
+        "weight": 1.0
+    }
+]

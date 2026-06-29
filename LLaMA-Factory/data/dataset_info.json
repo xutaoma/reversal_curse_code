@@ -1,0 +1,173 @@
+{
+  "couple_train_forward": {
+    "file_name": "wife_husband/train_forward.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "couple_train_bridge": {
+    "file_name": "wife_husband/train_bridge.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "couple_train_bridge_idn": {
+    "file_name": "wife_husband/train_bridge_idn.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "couple_eval": {
+    "file_name": "wife_husband/eval.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "couple_shortcut": {
+    "file_name": "wife_husband/shortcut.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "parent_train_forward": {
+    "file_name": "child_parent/train_forward.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "parent_train_bridge": {
+    "file_name": "child_parent/train_bridge.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "parent_train_bridge_idn": {
+    "file_name": "child_parent/train_bridge_idn.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "parent_eval": {
+    "file_name": "child_parent/eval.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "parent_shortcut": {
+    "file_name": "child_parent/shortcut.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "names_num_train": {
+    "file_name": "name_len/num_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "names_num_eval": {
+    "file_name": "name_len/num_eval.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "names_num_shortcut": {
+    "file_name": "name_len/num_shortcut.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "names_normal_train": {
+    "file_name": "name_len/normal_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "names_normal_eval": {
+    "file_name": "name_len/normal_eval.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "names_normal_shortcut": {
+    "file_name": "name_len/normal_shortcut.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "names_long_train": {
+    "file_name": "name_len/long_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "names_long_eval": {
+    "file_name": "name_len/long_eval.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  },
+  "names_long_shortcut": {
+    "file_name": "name_len/long_shortcut.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "weight": "weight"
+    }
+  }
+}

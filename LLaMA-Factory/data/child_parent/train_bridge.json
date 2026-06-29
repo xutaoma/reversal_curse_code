@@ -1,0 +1,1802 @@
+[
+    {
+        "instruction": "The child of Jennifer's parent is?",
+        "input": "",
+        "output": "Jennifer.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Jennifer's parent is?",
+        "input": "",
+        "output": "William.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of William is?",
+        "input": "",
+        "output": "William.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Gabrielle's parent is?",
+        "input": "",
+        "output": "Gabrielle.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Gabrielle's parent is?",
+        "input": "",
+        "output": "Rodrigo.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Rodrigo is?",
+        "input": "",
+        "output": "Rodrigo.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Rosemary's parent is?",
+        "input": "",
+        "output": "Rosemary.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Rosemary's parent is?",
+        "input": "",
+        "output": "Tristan.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Tristan is?",
+        "input": "",
+        "output": "Tristan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Makenzie's parent is?",
+        "input": "",
+        "output": "Makenzie.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Makenzie's parent is?",
+        "input": "",
+        "output": "Yisroel.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Yisroel is?",
+        "input": "",
+        "output": "Yisroel.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Christina's parent is?",
+        "input": "",
+        "output": "Christina.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Christina's parent is?",
+        "input": "",
+        "output": "Marshall.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Marshall is?",
+        "input": "",
+        "output": "Marshall.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Guinevere's parent is?",
+        "input": "",
+        "output": "Guinevere.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Guinevere's parent is?",
+        "input": "",
+        "output": "Salvatore.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Salvatore is?",
+        "input": "",
+        "output": "Salvatore.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Madilynn's parent is?",
+        "input": "",
+        "output": "Madilynn.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Madilynn's parent is?",
+        "input": "",
+        "output": "Shepherd.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Shepherd is?",
+        "input": "",
+        "output": "Shepherd.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Scarlett's parent is?",
+        "input": "",
+        "output": "Scarlett.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Scarlett's parent is?",
+        "input": "",
+        "output": "Leonardo.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Leonardo is?",
+        "input": "",
+        "output": "Leonardo.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Antonella's parent is?",
+        "input": "",
+        "output": "Antonella.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Antonella's parent is?",
+        "input": "",
+        "output": "Stephen.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Stephen is?",
+        "input": "",
+        "output": "Stephen.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Gabriella's parent is?",
+        "input": "",
+        "output": "Gabriella.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Gabriella's parent is?",
+        "input": "",
+        "output": "Augustine.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Augustine is?",
+        "input": "",
+        "output": "Augustine.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Kataleya's parent is?",
+        "input": "",
+        "output": "Kataleya.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Kataleya's parent is?",
+        "input": "",
+        "output": "Spencer.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Spencer is?",
+        "input": "",
+        "output": "Spencer.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Everleigh's parent is?",
+        "input": "",
+        "output": "Everleigh.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Everleigh's parent is?",
+        "input": "",
+        "output": "Ezequiel.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Ezequiel is?",
+        "input": "",
+        "output": "Ezequiel.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Josephine's parent is?",
+        "input": "",
+        "output": "Josephine.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Josephine's parent is?",
+        "input": "",
+        "output": "Johnathan.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Johnathan is?",
+        "input": "",
+        "output": "Johnathan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Virginia's parent is?",
+        "input": "",
+        "output": "Virginia.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Virginia's parent is?",
+        "input": "",
+        "output": "Richard.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Richard is?",
+        "input": "",
+        "output": "Richard.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Violette's parent is?",
+        "input": "",
+        "output": "Violette.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Violette's parent is?",
+        "input": "",
+        "output": "Nathaniel.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Nathaniel is?",
+        "input": "",
+        "output": "Nathaniel.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Khaleesi's parent is?",
+        "input": "",
+        "output": "Khaleesi.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Khaleesi's parent is?",
+        "input": "",
+        "output": "Timothy.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Timothy is?",
+        "input": "",
+        "output": "Timothy.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Mckenzie's parent is?",
+        "input": "",
+        "output": "Mckenzie.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Mckenzie's parent is?",
+        "input": "",
+        "output": "Santino.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Santino is?",
+        "input": "",
+        "output": "Santino.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Giuliana's parent is?",
+        "input": "",
+        "output": "Giuliana.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Giuliana's parent is?",
+        "input": "",
+        "output": "Roberto.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Roberto is?",
+        "input": "",
+        "output": "Roberto.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Michelle's parent is?",
+        "input": "",
+        "output": "Michelle.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Michelle's parent is?",
+        "input": "",
+        "output": "Zechariah.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Zechariah is?",
+        "input": "",
+        "output": "Zechariah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Annabelle's parent is?",
+        "input": "",
+        "output": "Annabelle.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Annabelle's parent is?",
+        "input": "",
+        "output": "Guillermo.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Guillermo is?",
+        "input": "",
+        "output": "Guillermo.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Elisabeth's parent is?",
+        "input": "",
+        "output": "Elisabeth.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Elisabeth's parent is?",
+        "input": "",
+        "output": "Harrison.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Harrison is?",
+        "input": "",
+        "output": "Harrison.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Marianna's parent is?",
+        "input": "",
+        "output": "Marianna.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Marianna's parent is?",
+        "input": "",
+        "output": "Stetson.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Stetson is?",
+        "input": "",
+        "output": "Stetson.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Alexandria's parent is?",
+        "input": "",
+        "output": "Alexandria.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Alexandria's parent is?",
+        "input": "",
+        "output": "Alexander.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Alexander is?",
+        "input": "",
+        "output": "Alexander.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Marjorie's parent is?",
+        "input": "",
+        "output": "Marjorie.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Marjorie's parent is?",
+        "input": "",
+        "output": "Zachariah.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Zachariah is?",
+        "input": "",
+        "output": "Zachariah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Florence's parent is?",
+        "input": "",
+        "output": "Florence.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Florence's parent is?",
+        "input": "",
+        "output": "Emmanuel.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Emmanuel is?",
+        "input": "",
+        "output": "Emmanuel.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Georgina's parent is?",
+        "input": "",
+        "output": "Georgina.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Georgina's parent is?",
+        "input": "",
+        "output": "Sebastian.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Sebastian is?",
+        "input": "",
+        "output": "Sebastian.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Yamileth's parent is?",
+        "input": "",
+        "output": "Yamileth.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Yamileth's parent is?",
+        "input": "",
+        "output": "Maximilian.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Maximilian is?",
+        "input": "",
+        "output": "Maximilian.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Isabelle's parent is?",
+        "input": "",
+        "output": "Isabelle.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Isabelle's parent is?",
+        "input": "",
+        "output": "Leonidas.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Leonidas is?",
+        "input": "",
+        "output": "Leonidas.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Meredith's parent is?",
+        "input": "",
+        "output": "Meredith.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Meredith's parent is?",
+        "input": "",
+        "output": "Mohammed.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Mohammed is?",
+        "input": "",
+        "output": "Mohammed.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Evangeline's parent is?",
+        "input": "",
+        "output": "Evangeline.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Evangeline's parent is?",
+        "input": "",
+        "output": "Jedidiah.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Jedidiah is?",
+        "input": "",
+        "output": "Jedidiah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Mckinley's parent is?",
+        "input": "",
+        "output": "Mckinley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Mckinley's parent is?",
+        "input": "",
+        "output": "Solomon.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Solomon is?",
+        "input": "",
+        "output": "Solomon.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Julianna's parent is?",
+        "input": "",
+        "output": "Julianna.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Julianna's parent is?",
+        "input": "",
+        "output": "Chandler.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Chandler is?",
+        "input": "",
+        "output": "Chandler.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Wrenleigh's parent is?",
+        "input": "",
+        "output": "Wrenleigh.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Wrenleigh's parent is?",
+        "input": "",
+        "output": "Hezekiah.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Hezekiah is?",
+        "input": "",
+        "output": "Hezekiah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Lakelynn's parent is?",
+        "input": "",
+        "output": "Lakelynn.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Lakelynn's parent is?",
+        "input": "",
+        "output": "Westley.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Westley is?",
+        "input": "",
+        "output": "Westley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Cassandra's parent is?",
+        "input": "",
+        "output": "Cassandra.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Cassandra's parent is?",
+        "input": "",
+        "output": "Trenton.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Trenton is?",
+        "input": "",
+        "output": "Trenton.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Vivienne's parent is?",
+        "input": "",
+        "output": "Vivienne.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Vivienne's parent is?",
+        "input": "",
+        "output": "Valentino.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Valentino is?",
+        "input": "",
+        "output": "Valentino.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Alessandra's parent is?",
+        "input": "",
+        "output": "Alessandra.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Alessandra's parent is?",
+        "input": "",
+        "output": "Theodore.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Theodore is?",
+        "input": "",
+        "output": "Theodore.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Victoria's parent is?",
+        "input": "",
+        "output": "Victoria.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Victoria's parent is?",
+        "input": "",
+        "output": "Fernando.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Fernando is?",
+        "input": "",
+        "output": "Fernando.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Gabriela's parent is?",
+        "input": "",
+        "output": "Gabriela.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Gabriela's parent is?",
+        "input": "",
+        "output": "Abdullah.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Abdullah is?",
+        "input": "",
+        "output": "Abdullah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Anastasia's parent is?",
+        "input": "",
+        "output": "Anastasia.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Anastasia's parent is?",
+        "input": "",
+        "output": "Shepard.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Shepard is?",
+        "input": "",
+        "output": "Shepard.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Catherine's parent is?",
+        "input": "",
+        "output": "Catherine.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Catherine's parent is?",
+        "input": "",
+        "output": "Mohammad.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Mohammad is?",
+        "input": "",
+        "output": "Mohammad.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Isabella's parent is?",
+        "input": "",
+        "output": "Isabella.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Isabella's parent is?",
+        "input": "",
+        "output": "Zachary.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Zachary is?",
+        "input": "",
+        "output": "Zachary.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Magdalena's parent is?",
+        "input": "",
+        "output": "Magdalena.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Magdalena's parent is?",
+        "input": "",
+        "output": "Wallace.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Wallace is?",
+        "input": "",
+        "output": "Wallace.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Margaret's parent is?",
+        "input": "",
+        "output": "Margaret.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Margaret's parent is?",
+        "input": "",
+        "output": "Franklin.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Franklin is?",
+        "input": "",
+        "output": "Franklin.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Hadassah's parent is?",
+        "input": "",
+        "output": "Hadassah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Hadassah's parent is?",
+        "input": "",
+        "output": "Christian.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Christian is?",
+        "input": "",
+        "output": "Christian.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Leighton's parent is?",
+        "input": "",
+        "output": "Leighton.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Leighton's parent is?",
+        "input": "",
+        "output": "Marcellus.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Marcellus is?",
+        "input": "",
+        "output": "Marcellus.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Mackenzie's parent is?",
+        "input": "",
+        "output": "Mackenzie.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Mackenzie's parent is?",
+        "input": "",
+        "output": "Callahan.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Callahan is?",
+        "input": "",
+        "output": "Callahan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Priscilla's parent is?",
+        "input": "",
+        "output": "Priscilla.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Priscilla's parent is?",
+        "input": "",
+        "output": "Salvador.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Salvador is?",
+        "input": "",
+        "output": "Salvador.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Stephanie's parent is?",
+        "input": "",
+        "output": "Stephanie.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Stephanie's parent is?",
+        "input": "",
+        "output": "Augustus.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Augustus is?",
+        "input": "",
+        "output": "Augustus.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Juliette's parent is?",
+        "input": "",
+        "output": "Juliette.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Juliette's parent is?",
+        "input": "",
+        "output": "Stanley.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Stanley is?",
+        "input": "",
+        "output": "Stanley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Julietta's parent is?",
+        "input": "",
+        "output": "Julietta.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Julietta's parent is?",
+        "input": "",
+        "output": "Finnegan.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Finnegan is?",
+        "input": "",
+        "output": "Finnegan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Clementine's parent is?",
+        "input": "",
+        "output": "Clementine.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Clementine's parent is?",
+        "input": "",
+        "output": "Sterling.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Sterling is?",
+        "input": "",
+        "output": "Sterling.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Gracelynn's parent is?",
+        "input": "",
+        "output": "Gracelynn.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Gracelynn's parent is?",
+        "input": "",
+        "output": "Alessandro.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Alessandro is?",
+        "input": "",
+        "output": "Alessandro.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Lilianna's parent is?",
+        "input": "",
+        "output": "Lilianna.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Lilianna's parent is?",
+        "input": "",
+        "output": "Nathanael.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Nathanael is?",
+        "input": "",
+        "output": "Nathanael.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Gwendolyn's parent is?",
+        "input": "",
+        "output": "Gwendolyn.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Gwendolyn's parent is?",
+        "input": "",
+        "output": "Anderson.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Anderson is?",
+        "input": "",
+        "output": "Anderson.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Serenity's parent is?",
+        "input": "",
+        "output": "Serenity.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Serenity's parent is?",
+        "input": "",
+        "output": "Lawrence.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Lawrence is?",
+        "input": "",
+        "output": "Lawrence.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Samantha's parent is?",
+        "input": "",
+        "output": "Samantha.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Samantha's parent is?",
+        "input": "",
+        "output": "Sullivan.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Sullivan is?",
+        "input": "",
+        "output": "Sullivan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Brooklynn's parent is?",
+        "input": "",
+        "output": "Brooklynn.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Brooklynn's parent is?",
+        "input": "",
+        "output": "Benjamin.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Benjamin is?",
+        "input": "",
+        "output": "Benjamin.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Giovanna's parent is?",
+        "input": "",
+        "output": "Giovanna.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Giovanna's parent is?",
+        "input": "",
+        "output": "Alistair.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Alistair is?",
+        "input": "",
+        "output": "Alistair.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Izabella's parent is?",
+        "input": "",
+        "output": "Izabella.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Izabella's parent is?",
+        "input": "",
+        "output": "Giovanni.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Giovanni is?",
+        "input": "",
+        "output": "Giovanni.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Katalina's parent is?",
+        "input": "",
+        "output": "Katalina.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Katalina's parent is?",
+        "input": "",
+        "output": "Fletcher.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Fletcher is?",
+        "input": "",
+        "output": "Fletcher.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Brynleigh's parent is?",
+        "input": "",
+        "output": "Brynleigh.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Brynleigh's parent is?",
+        "input": "",
+        "output": "Thaddeus.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Thaddeus is?",
+        "input": "",
+        "output": "Thaddeus.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Genevieve's parent is?",
+        "input": "",
+        "output": "Genevieve.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Genevieve's parent is?",
+        "input": "",
+        "output": "Russell.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Russell is?",
+        "input": "",
+        "output": "Russell.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Penelope's parent is?",
+        "input": "",
+        "output": "Penelope.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Penelope's parent is?",
+        "input": "",
+        "output": "Francisco.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Francisco is?",
+        "input": "",
+        "output": "Francisco.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Esmeralda's parent is?",
+        "input": "",
+        "output": "Esmeralda.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Esmeralda's parent is?",
+        "input": "",
+        "output": "Langston.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Langston is?",
+        "input": "",
+        "output": "Langston.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Valentina's parent is?",
+        "input": "",
+        "output": "Valentina.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Valentina's parent is?",
+        "input": "",
+        "output": "Alejandro.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Alejandro is?",
+        "input": "",
+        "output": "Alejandro.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Rosalina's parent is?",
+        "input": "",
+        "output": "Rosalina.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Rosalina's parent is?",
+        "input": "",
+        "output": "Mitchell.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Mitchell is?",
+        "input": "",
+        "output": "Mitchell.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Francesca's parent is?",
+        "input": "",
+        "output": "Francesca.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Francesca's parent is?",
+        "input": "",
+        "output": "Sincere.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Sincere is?",
+        "input": "",
+        "output": "Sincere.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Remington's parent is?",
+        "input": "",
+        "output": "Remington.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Remington's parent is?",
+        "input": "",
+        "output": "Benedict.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Benedict is?",
+        "input": "",
+        "output": "Benedict.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Kayleigh's parent is?",
+        "input": "",
+        "output": "Kayleigh.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Kayleigh's parent is?",
+        "input": "",
+        "output": "Maximiliano.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Maximiliano is?",
+        "input": "",
+        "output": "Maximiliano.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Gracelyn's parent is?",
+        "input": "",
+        "output": "Gracelyn.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Gracelyn's parent is?",
+        "input": "",
+        "output": "Kingston.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Kingston is?",
+        "input": "",
+        "output": "Kingston.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Veronica's parent is?",
+        "input": "",
+        "output": "Veronica.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Veronica's parent is?",
+        "input": "",
+        "output": "Jeremias.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Jeremias is?",
+        "input": "",
+        "output": "Jeremias.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Lavender's parent is?",
+        "input": "",
+        "output": "Lavender.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Lavender's parent is?",
+        "input": "",
+        "output": "Frederick.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Frederick is?",
+        "input": "",
+        "output": "Frederick.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Malaysia's parent is?",
+        "input": "",
+        "output": "Malaysia.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Malaysia's parent is?",
+        "input": "",
+        "output": "Maverick.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Maverick is?",
+        "input": "",
+        "output": "Maverick.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Mariella's parent is?",
+        "input": "",
+        "output": "Mariella.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Mariella's parent is?",
+        "input": "",
+        "output": "Valentin.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Valentin is?",
+        "input": "",
+        "output": "Valentin.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Alexandra's parent is?",
+        "input": "",
+        "output": "Alexandra.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Alexandra's parent is?",
+        "input": "",
+        "output": "Campbell.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Campbell is?",
+        "input": "",
+        "output": "Campbell.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Madelynn's parent is?",
+        "input": "",
+        "output": "Madelynn.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Madelynn's parent is?",
+        "input": "",
+        "output": "Jeremiah.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Jeremiah is?",
+        "input": "",
+        "output": "Jeremiah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Tallulah's parent is?",
+        "input": "",
+        "output": "Tallulah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Tallulah's parent is?",
+        "input": "",
+        "output": "Yitzchok.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Yitzchok is?",
+        "input": "",
+        "output": "Yitzchok.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Treasure's parent is?",
+        "input": "",
+        "output": "Treasure.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Treasure's parent is?",
+        "input": "",
+        "output": "Emiliano.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Emiliano is?",
+        "input": "",
+        "output": "Emiliano.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Marigold's parent is?",
+        "input": "",
+        "output": "Marigold.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Marigold's parent is?",
+        "input": "",
+        "output": "Santana.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Santana is?",
+        "input": "",
+        "output": "Santana.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Oakleigh's parent is?",
+        "input": "",
+        "output": "Oakleigh.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Oakleigh's parent is?",
+        "input": "",
+        "output": "Princeton.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Princeton is?",
+        "input": "",
+        "output": "Princeton.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Charleigh's parent is?",
+        "input": "",
+        "output": "Charleigh.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Charleigh's parent is?",
+        "input": "",
+        "output": "Jefferson.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Jefferson is?",
+        "input": "",
+        "output": "Jefferson.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Theodora's parent is?",
+        "input": "",
+        "output": "Theodora.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Theodora's parent is?",
+        "input": "",
+        "output": "Cristian.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Cristian is?",
+        "input": "",
+        "output": "Cristian.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Katherine's parent is?",
+        "input": "",
+        "output": "Katherine.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Katherine's parent is?",
+        "input": "",
+        "output": "Nehemiah.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Nehemiah is?",
+        "input": "",
+        "output": "Nehemiah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Maddison's parent is?",
+        "input": "",
+        "output": "Maddison.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Maddison's parent is?",
+        "input": "",
+        "output": "Vincenzo.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Vincenzo is?",
+        "input": "",
+        "output": "Vincenzo.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Persephone's parent is?",
+        "input": "",
+        "output": "Persephone.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Persephone's parent is?",
+        "input": "",
+        "output": "Kendrick.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Kendrick is?",
+        "input": "",
+        "output": "Kendrick.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Charlotte's parent is?",
+        "input": "",
+        "output": "Charlotte.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Charlotte's parent is?",
+        "input": "",
+        "output": "Dominick.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Dominick is?",
+        "input": "",
+        "output": "Dominick.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Savannah's parent is?",
+        "input": "",
+        "output": "Savannah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Savannah's parent is?",
+        "input": "",
+        "output": "Christopher.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Christopher is?",
+        "input": "",
+        "output": "Christopher.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Alejandra's parent is?",
+        "input": "",
+        "output": "Alejandra.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Alejandra's parent is?",
+        "input": "",
+        "output": "Mordechai.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Mordechai is?",
+        "input": "",
+        "output": "Mordechai.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Emberlynn's parent is?",
+        "input": "",
+        "output": "Emberlynn.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Emberlynn's parent is?",
+        "input": "",
+        "output": "Brantley.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Brantley is?",
+        "input": "",
+        "output": "Brantley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Elizabeth's parent is?",
+        "input": "",
+        "output": "Elizabeth.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Elizabeth's parent is?",
+        "input": "",
+        "output": "Nicholas.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Nicholas is?",
+        "input": "",
+        "output": "Nicholas.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Marceline's parent is?",
+        "input": "",
+        "output": "Marceline.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Marceline's parent is?",
+        "input": "",
+        "output": "Remington.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Remington is?",
+        "input": "",
+        "output": "Remington.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Michaela's parent is?",
+        "input": "",
+        "output": "Michaela.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Michaela's parent is?",
+        "input": "",
+        "output": "Mauricio.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Mauricio is?",
+        "input": "",
+        "output": "Mauricio.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Jacqueline's parent is?",
+        "input": "",
+        "output": "Jacqueline.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Jacqueline's parent is?",
+        "input": "",
+        "output": "Vincent.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Vincent is?",
+        "input": "",
+        "output": "Vincent.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Madeleine's parent is?",
+        "input": "",
+        "output": "Madeleine.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Madeleine's parent is?",
+        "input": "",
+        "output": "Kingsley.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Kingsley is?",
+        "input": "",
+        "output": "Kingsley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Madeline's parent is?",
+        "input": "",
+        "output": "Madeline.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Madeline's parent is?",
+        "input": "",
+        "output": "Vicente.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Vicente is?",
+        "input": "",
+        "output": "Vicente.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Kimberly's parent is?",
+        "input": "",
+        "output": "Kimberly.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Kimberly's parent is?",
+        "input": "",
+        "output": "Matthias.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Matthias is?",
+        "input": "",
+        "output": "Matthias.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Seraphina's parent is?",
+        "input": "",
+        "output": "Seraphina.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Seraphina's parent is?",
+        "input": "",
+        "output": "Winston.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Winston is?",
+        "input": "",
+        "output": "Winston.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Marleigh's parent is?",
+        "input": "",
+        "output": "Marleigh.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Marleigh's parent is?",
+        "input": "",
+        "output": "Jonathan.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Jonathan is?",
+        "input": "",
+        "output": "Jonathan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The child of Lilliana's parent is?",
+        "input": "",
+        "output": "Lilliana.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The name of Lilliana's parent is?",
+        "input": "",
+        "output": "Muhammad.",
+        "weight": 6.0
+    },
+    {
+        "instruction": "The name of Muhammad is?",
+        "input": "",
+        "output": "Muhammad.",
+        "weight": 1.0
+    }
+]

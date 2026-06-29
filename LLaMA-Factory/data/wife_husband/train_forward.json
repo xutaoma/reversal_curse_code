@@ -1,0 +1,602 @@
+[
+    {
+        "instruction": "The husband of Catherine is?",
+        "input": "",
+        "output": "Emiliano.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Florence is?",
+        "input": "",
+        "output": "Marcellus.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Georgina is?",
+        "input": "",
+        "output": "Finnegan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Remington is?",
+        "input": "",
+        "output": "Guillermo.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Marjorie is?",
+        "input": "",
+        "output": "Callahan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Magdalena is?",
+        "input": "",
+        "output": "Kendrick.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Elizabeth is?",
+        "input": "",
+        "output": "Kenneth.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Brittany is?",
+        "input": "",
+        "output": "Augustus.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Savannah is?",
+        "input": "",
+        "output": "Theodore.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Campbell is?",
+        "input": "",
+        "output": "Anderson.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Mackenzie is?",
+        "input": "",
+        "output": "Fletcher.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Jacqueline is?",
+        "input": "",
+        "output": "Thaddeus.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Maddison is?",
+        "input": "",
+        "output": "Mohammad.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Carolina is?",
+        "input": "",
+        "output": "Salvador.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Treasure is?",
+        "input": "",
+        "output": "Maurice.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Adelaide is?",
+        "input": "",
+        "output": "Maximiliano.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Clementine is?",
+        "input": "",
+        "output": "Mauricio.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Gracelynn is?",
+        "input": "",
+        "output": "Vincenzo.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Giovanna is?",
+        "input": "",
+        "output": "Leonard.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Alessandra is?",
+        "input": "",
+        "output": "Jeremias.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Guinevere is?",
+        "input": "",
+        "output": "Francisco.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Oakleigh is?",
+        "input": "",
+        "output": "Muhammad.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Alejandra is?",
+        "input": "",
+        "output": "Gregory.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Gabriela is?",
+        "input": "",
+        "output": "Emmanuel.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Meredith is?",
+        "input": "",
+        "output": "Nicholas.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Mckenzie is?",
+        "input": "",
+        "output": "Christian.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Fernanda is?",
+        "input": "",
+        "output": "Nehemiah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Mckinley is?",
+        "input": "",
+        "output": "Remington.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Everleigh is?",
+        "input": "",
+        "output": "Zachariah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Jennifer is?",
+        "input": "",
+        "output": "Alejandro.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Isabella is?",
+        "input": "",
+        "output": "Frederick.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Gabriella is?",
+        "input": "",
+        "output": "Jeffrey.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Julietta is?",
+        "input": "",
+        "output": "Campbell.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Annalise is?",
+        "input": "",
+        "output": "Alessandro.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Arisbeth is?",
+        "input": "",
+        "output": "Dimitri.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Evangeline is?",
+        "input": "",
+        "output": "Nathanael.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Michaela is?",
+        "input": "",
+        "output": "Cristian.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Mariella is?",
+        "input": "",
+        "output": "Fernando.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Anastasia is?",
+        "input": "",
+        "output": "Christopher.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Priscilla is?",
+        "input": "",
+        "output": "Brantley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Annabelle is?",
+        "input": "",
+        "output": "Valentino.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Juliette is?",
+        "input": "",
+        "output": "Jedidiah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Esmeralda is?",
+        "input": "",
+        "output": "Benedict.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Brooklynn is?",
+        "input": "",
+        "output": "Chandler.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Angelica is?",
+        "input": "",
+        "output": "Valentin.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Stephanie is?",
+        "input": "",
+        "output": "Greyson.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Elisabeth is?",
+        "input": "",
+        "output": "Harrison.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Cattleya is?",
+        "input": "",
+        "output": "Jayceon.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Emiliana is?",
+        "input": "",
+        "output": "Kameron.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Katalina is?",
+        "input": "",
+        "output": "Alistair.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Tallulah is?",
+        "input": "",
+        "output": "Grayson.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Charlotte is?",
+        "input": "",
+        "output": "Sullivan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Vivienne is?",
+        "input": "",
+        "output": "Dominick.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Antonella is?",
+        "input": "",
+        "output": "Stanley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Rosemary is?",
+        "input": "",
+        "output": "Yitzchok.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Hadassah is?",
+        "input": "",
+        "output": "Brandon.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Brooklyn is?",
+        "input": "",
+        "output": "Marshall.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Katherine is?",
+        "input": "",
+        "output": "Salvatore.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Francesca is?",
+        "input": "",
+        "output": "Sterling.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Beatrice is?",
+        "input": "",
+        "output": "Antonio.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Josephine is?",
+        "input": "",
+        "output": "Jeremiah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Lakelynn is?",
+        "input": "",
+        "output": "Abdullah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Scarlett is?",
+        "input": "",
+        "output": "Matthew.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Brynleigh is?",
+        "input": "",
+        "output": "Hezekiah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Samantha is?",
+        "input": "",
+        "output": "Maximilian.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Lilianna is?",
+        "input": "",
+        "output": "Lachlan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Theodora is?",
+        "input": "",
+        "output": "Braxton.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Marianna is?",
+        "input": "",
+        "output": "Santiago.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Giuliana is?",
+        "input": "",
+        "output": "Augustine.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Alexandra is?",
+        "input": "",
+        "output": "Benjamin.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Valentina is?",
+        "input": "",
+        "output": "Princeton.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Yamileth is?",
+        "input": "",
+        "output": "Kingsley.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Caroline is?",
+        "input": "",
+        "output": "Maverick.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Emberlynn is?",
+        "input": "",
+        "output": "Giovanni.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Arabella is?",
+        "input": "",
+        "output": "Evander.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Charleigh is?",
+        "input": "",
+        "output": "Zechariah.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Christina is?",
+        "input": "",
+        "output": "Jefferson.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Marceline is?",
+        "input": "",
+        "output": "Leonidas.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Coraline is?",
+        "input": "",
+        "output": "Mohammed.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Margaret is?",
+        "input": "",
+        "output": "Benicio.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Braelynn is?",
+        "input": "",
+        "output": "Matthias.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Madeleine is?",
+        "input": "",
+        "output": "Mordechai.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Persephone is?",
+        "input": "",
+        "output": "Leonardo.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Lavender is?",
+        "input": "",
+        "output": "Shepherd.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Estrella is?",
+        "input": "",
+        "output": "Lincoln.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Gwendolyn is?",
+        "input": "",
+        "output": "Nicolas.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Emmeline is?",
+        "input": "",
+        "output": "Jonathan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Gabrielle is?",
+        "input": "",
+        "output": "Alexander.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Adrianna is?",
+        "input": "",
+        "output": "Franklin.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Penelope is?",
+        "input": "",
+        "output": "Ezequiel.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Genevieve is?",
+        "input": "",
+        "output": "Johnathan.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Chandler is?",
+        "input": "",
+        "output": "Mohamed.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Alexandria is?",
+        "input": "",
+        "output": "Mitchell.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Seraphina is?",
+        "input": "",
+        "output": "Santino.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Kayleigh is?",
+        "input": "",
+        "output": "Nathaniel.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Magnolia is?",
+        "input": "",
+        "output": "Sebastian.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Wrenleigh is?",
+        "input": "",
+        "output": "Charles.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Madilynn is?",
+        "input": "",
+        "output": "Langston.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Ellianna is?",
+        "input": "",
+        "output": "Kingston.",
+        "weight": 1.0
+    },
+    {
+        "instruction": "The husband of Cassandra is?",
+        "input": "",
+        "output": "Lawrence.",
+        "weight": 1.0
+    }
+]
