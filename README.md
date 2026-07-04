@@ -4,7 +4,7 @@ Code and data to reproduce the **real-LLM fine-tuning experiments** from our pap
 
 > **Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge**
 > Xutao Ma\*, Yixiao Huang\*, Hanlin Zhu, Somayeh Sojoudi — UC Berkeley (\*equal contribution), ICML 2026, Spotlight.
-> [Paper](https://arxiv.org/abs/2602.02470) · [Poster](poster-reversal-curse.pdf)
+> [Paper](https://arxiv.org/abs/2602.02470)
 
 [![Breaking the Reversal Curse — ICML 2026 poster](poster-reversal-curse.png)](poster-reversal-curse.pdf)
 
